@@ -18,7 +18,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interest includes the evolution of human childbirth. 
+bio: ""
 
 interests:
 - Evolution of human birth
