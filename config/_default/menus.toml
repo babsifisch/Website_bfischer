@@ -27,11 +27,16 @@
   name = "Talks"
   url = "#talks"
   weight = 30
-
+  
 [[main]]
-  name = "CV"
-  url = ""
+  name = "Teaching"
+  url = "#teaching"
   weight = 40
+
+#[[main]]
+#  name = "CV"
+#  url = ""
+#  weight = 50
   
 [[main]]
   name = "Contact"
