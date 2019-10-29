@@ -18,7 +18,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: ""
+bio: 
 
 interests:
 - Evolution of human birth
@@ -33,7 +33,6 @@ education:
   - course: MSc in Biomathematics and Biology
     institution: University of Vienna
     year: 2006
- 
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
@@ -69,6 +68,6 @@ email: ""
 #user_groups:
 #- Researchers
 #- Visitors
-#---
+---
 
 Barbara Fischer is an evolutionary biologist at the University of Vienna. Her research interests include phenotypic human evolution, particularly the evolution of birth and pelvic morphology. 
