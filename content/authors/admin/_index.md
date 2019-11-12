@@ -1,73 +1,49 @@
 ---
-# Display name
-name: Barbara Fischer
-
-# Username (this should match the folder name)
 authors:
 - admin
-
-# Is this the primary user of the site?
-superuser: true
-
-# Role/position
-role: Evolutionary Biologist
-
-# Organizations/Affiliations
-organizations:
-- name: University of Vienna
-  url: ""
-
-# Short bio (displayed in user profile at end of posts)
 bio: 
-
-interests:
-- Evolution of human birth
-- Phenotypic Evolution
-- Biostatistics and Mathematics
-
 education:
   courses:
   - course: PhD in Ecology and Evolution
-    institution: University of Berne
+    institution: Department of Biology, University of Berne, Switzerland
     year: 2010
-  - course: MSc in Biomathematics and Biology
-    institution: University of Vienna
+  - course: MSc in Biomathematics
+    institution: Faculty of Mathematics, University of Vienna
     year: 2006
-
-# Social/Academic Networking
-# For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
-#   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
-#   form "mailto:your-email@example.com" or "#contact" for contact widget.
+ 
+email: "b.fischer@univie.ac.at"
+interests:
+- Evolution of childbirth
+- Evolutionary medicine
+- Biostatistics
+- Evolutionary Theory
+- Science Communication
+name: Barbara Fischer
+organizations:
+- name: University of Vienna
+  url: "barbarafischer.info"
+role: Researcher and Lecturer
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
-#- icon: twitter
-#  icon_pack: fab
-#  link: https://twitter.com/GeorgeCushen
+  link: '#contact'
+- icon: twitter
+  icon_pack: fab
+  link: https://twitter.com/babsifisch
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.co.uk/citations?user=X1U1AFIAAAAJ&hl=en
-#- icon: research-gate
-#  icon_pack: ai
-#  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+- icon: researchgate
+  icon_pack: ai
+  link: https://www.researchgate.net/profile/Barbara_Fischer5
 #- icon: github
 #  icon_pack: fab
 #  link: https://github.com/gcushen
-# Link to a PDF of your resume/CV from the About widget.
-# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
-
-# Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
-  
-# Organizational groups that you belong to (for People widget)
-#   Set this to `[]` or comment out if you are not using People widget.  
-#user_groups:
-#- Researchers
-#- Visitors
+superuser: false
+user_groups:
+- Researchers
+- Visitors
 ---
 
-Barbara Fischer is an evolutionary biologist at the University of Vienna. Her research interests include phenotypic human evolution, particularly the evolution of birth and pelvic morphology. 
+Barbara Fischer is an evolutionary biologist with a background in mathematics and theoretical biology working on the evolution of birth in humans. She is a researcher and lecturer at the Department of Theoretical Biology of the University of Vienna, Austria. Beyond her research, she considers communicating science an important part of her work. She enjoys giving popular science talks as well as writing articles for a general audience and has authored a textbook for high school biology.
+
