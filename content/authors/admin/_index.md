@@ -21,7 +21,7 @@ interests:
 name: Barbara Fischer
 organizations:
 - name: University of Vienna
-  url: "barbarafischer.info"
+  url: "https://www.univie.ac.at/"
 role: Researcher and Lecturer
 social:
 - icon: envelope
