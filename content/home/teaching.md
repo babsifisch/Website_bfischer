@@ -15,7 +15,6 @@ subtitle = ""
 2019-2020 academic year (2019W):
 
 [300357 UE Mathematical Basics for Quantitative Biology](https://ufind.univie.ac.at/en/course.html?lv=300357&semester=2019W)  
-together with Philipp Mitteroecker
 
 [earlier teaching](https://ufind.univie.ac.at/en/person.html?id=51825&teaching=true)
 
