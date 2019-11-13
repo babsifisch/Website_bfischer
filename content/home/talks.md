@@ -15,7 +15,7 @@ subtitle = ""
 - **The influence of demography and evolution on Caesarean section rates**  
 Colloquium, Konrad-Lorenz-Institute for Evolution and Cognition Research (KLI), October 29, 2019.
 
-- [**Sexual dimorphism in Khoe-San**](https://www.fomf.at/gynaekologie-update-refresher-wien-1119#fomf-program)    
+- [**Sexual dimorphism in Khoe-San**](https://www.orea.oeaw.ac.at/en/events/event-detail/article/female-pelvic-features/)    
 Female Pelvic Features Workshop, Natural History Museum Vienna, November 29, 2019.
 
 - [**Die Evolution des menschlichen Beckens und die Bedeutung für die Geburt**](https://www.fomf.at/gynaekologie-update-refresher-wien-1119#fomf-program)    
