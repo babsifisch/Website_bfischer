@@ -16,7 +16,7 @@ image:
   focal_point: ""
   preview_only: false
 projects: []
-publication: 'Proceedings of the National Academy of Sciences 113:14680-14685'
+publication: 'American Journal of Human Biology 31:e23227'
 publication_short: ""
 publication_types:
 - "2"
