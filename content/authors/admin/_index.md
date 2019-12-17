@@ -45,5 +45,5 @@ user_groups:
 - Visitors
 ---
 
-Barbara Fischer is an evolutionary biologist with a background in mathematics and theoretical biology working on the evolution of birth in humans. She is a researcher and lecturer at the [Department of Theoretical Biology](https://theoretical.univie.ac.at/) of the University of Vienna, Austria. Beyond her research, she considers [communicating science](#media) an important part of her work. She enjoys giving popular science talks as well as writing articles for a general audience and has authored a [textbook for high school biology](https://www.oebv.at/lehrwerke/am-puls).
+I am an evolutionary biologist with a background in mathematics and theoretical biology. My research focuses on the evolution of birth in humans. I am a researcher and lecturer at the [Department of Theoretical Biology](https://theoretical.univie.ac.at/) of the University of Vienna, Austria. In addition to my research, I consider [communicating science](#media) an important part of my work. I enjoy giving popular science talks as well as writing articles for a general audience and I have authored a [textbook for high school biology](https://www.oebv.at/lehrwerke/am-puls).
 

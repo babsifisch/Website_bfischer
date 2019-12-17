@@ -6,13 +6,13 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 30  # Order that this section will appear.
 
-title = "Press coverage"
+title = "Press Coverage"
 subtitle = ""
 
 +++
 
 
-My research has been widely featured in the international and national media, including many notable publishing outlets. Below is a selection of recent articles covering my work. 
+My research has been widely featured by the international and national press, including many notable publishing outlets. Below is a selection of some recent articles covering my work. 
 
 - [**'50-prozentige Kaiserschnittrate muss zu denken geben'**](https://www.derstandard.at/story/2000070755709/biologin-50-prozentige-kaiserschnittrate-muss-zu-denken-geben)  
 *Der Standard*, December 2017 
