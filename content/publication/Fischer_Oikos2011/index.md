@@ -22,13 +22,15 @@ summary:
 tags:
 - Source Themes
 title: How to balance the offspring quality–quantity tradeoff when environmental cues are unreliable
-url_link: "https://doi.org/10.1111/j.1600-0706.2010.18642.x"
-url_code: ""
-url_dataset: ""
-url_pdf: ""
-url_poster: ""
-url_project: ""
-url_slides: ""
-url_source: ""
-url_video: ""
+links:
+- name: URL
+  url: https://doi.org/10.1111/j.1600-0706.2010.18642.x
+url_pdf: ''
+url_code: ''
+url_dataset: ''
+url_poster: ''
+url_project: ''
+url_slides: ''
+url_source: ''
+url_video: ''
 ---

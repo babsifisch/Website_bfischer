@@ -23,13 +23,15 @@ summary:
 tags:
 - Source Themes
 title: The Evolution of Age-Dependent Plasticity
-url_link: "https://www.journals.uchicago.edu/doi/abs/10.1086/674008"
-url_code: ""
-url_dataset: ""
-url_pdf: ""
-url_poster: ""
-url_project: ""
-url_slides: ""
-url_source: ""
-url_video: ""
+links:
+- name: URL
+  url: https://www.journals.uchicago.edu/doi/abs/10.1086/674008
+url_pdf: ''
+url_code: ''
+url_dataset: ''
+url_poster: ''
+url_project: ''
+url_slides: ''
+url_source: ''
+url_video: ''
 ---

@@ -22,13 +22,16 @@ summary:
 tags:
 - Source Themes
 title: Allometry and sexual dimorphism in the human pelvis
-url_link: "https://anatomypubs.onlinelibrary.wiley.com/doi/full/10.1002/ar.23549"
-url_code: ""
-url_dataset: ""
-url_pdf: ""
-url_poster: ""
-url_project: ""
-url_slides: ""
-url_source: ""
-url_video: ""
+
+links:
+- name: URL
+  url: https://anatomypubs.onlinelibrary.wiley.com/doi/full/10.1002/ar.23549
+url_pdf: ''
+url_code: ''
+url_dataset: ''
+url_poster: ''
+url_project: ''
+url_slides: ''
+url_source: ''
+url_video: ''
 ---

@@ -25,13 +25,15 @@ summary:
 tags:
 - Source Themes
 title: Lateral plate number in low‐plated threespine stickleback - a study of plasticity and heritability
-url_link: "https://onlinelibrary.wiley.com/doi/full/10.1002/ece3.2020"
-url_code: ""
-url_dataset: ""
-url_pdf: ""
-url_poster: ""
-url_project: ""
-url_slides: ""
-url_source: ""
-url_video: ""
+links:
+- name: URL
+  url: https://onlinelibrary.wiley.com/doi/full/10.1002/ece3.2020
+url_pdf: ''
+url_code: ''
+url_dataset: ''
+url_poster: ''
+url_project: ''
+url_slides: ''
+url_source: ''
+url_video: ''
 ---

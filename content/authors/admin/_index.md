@@ -16,8 +16,8 @@ interests:
 - Evolution of childbirth
 - Evolutionary medicine
 - Biostatistics
-- Evolutionary Theory
-- Science Communication
+- Evolutionary theory
+- Science communication
 name: Barbara Fischer
 organizations:
 - name: University of Vienna

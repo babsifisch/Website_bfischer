@@ -21,13 +21,15 @@ summary:
 tags:
 - Source Themes
 title: "Adult pelvic shape change is an evolutionary side effect"
-url_link: "https://www.pnas.org/content/113/26/E3596"
-url_code: ""
-url_dataset: ""
-url_pdf: ""
-url_poster: ""
-url_project: ""
-url_slides: ""
-url_source: ""
-url_video: ""
+links:
+- name: URL
+  url: https://www.pnas.org/content/113/26/E3596
+url_pdf: ''
+url_code: ''
+url_dataset: ''
+url_poster: ''
+url_project: ''
+url_slides: ''
+url_source: ''
+url_video: ''
 ---

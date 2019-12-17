@@ -24,13 +24,15 @@ summary:
 tags:
 - Source Themes
 title: Strong and parallel salinity‐induced phenotypic plasticity in one generation of threespine stickleback
-url_link: "https://onlinelibrary.wiley.com/doi/full/10.1111/jeb.12597"
-url_code: ""
-url_dataset: ""
-url_pdf: ""
-url_poster: ""
-url_project: ""
-url_slides: ""
-url_source: ""
-url_video: ""
+links:
+- name: URL
+  url: https://onlinelibrary.wiley.com/doi/full/10.1111/jeb.12597
+url_pdf: ''
+url_code: ''
+url_dataset: ''
+url_poster: ''
+url_project: ''
+url_slides: ''
+url_source: ''
+url_video: ''
 ---

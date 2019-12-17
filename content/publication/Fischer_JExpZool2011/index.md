@@ -22,13 +22,15 @@ summary:
 tags:
 - Source Themes
 title: A noninvasive method to determine fat content in small fish based on swim bladder size estimation
-url_link: "https://onlinelibrary.wiley.com/doi/full/10.1111/j.1558-5646.2010.01198.x"
-url_code: ""
-url_dataset: ""
-url_pdf: ""
-url_poster: ""
-url_project: ""
-url_slides: ""
-url_source: ""
-url_video: ""
+links:
+- name: URL
+  url: https://onlinelibrary.wiley.com/doi/full/10.1111/j.1558-5646.2010.01198.x
+url_pdf: ''
+url_code: ''
+url_dataset: ''
+url_poster: ''
+url_project: ''
+url_slides: ''
+url_source: ''
+url_video: ''
 ---

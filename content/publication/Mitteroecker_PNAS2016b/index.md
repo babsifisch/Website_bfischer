@@ -24,13 +24,15 @@ summary:
 tags:
 - Source Themes
 title: "Cliff-edge model of obstetric selection in humans"
-url_link: "https://www.pnas.org/content/113/51/14680"
-url_code: ""
-url_dataset: ""
-url_pdf: ""
-url_poster: ""
-url_project: ""
-url_slides: ""
-url_source: ""
-url_video: ""
+links:
+- name: URL
+  url: https://www.pnas.org/content/113/51/14680
+url_pdf: ''
+url_code: ''
+url_dataset: ''
+url_poster: ''
+url_project: ''
+url_slides: ''
+url_source: ''
+url_video: ''
 ---

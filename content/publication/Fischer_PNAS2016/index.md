@@ -21,13 +21,15 @@ summary:
 tags:
 - Source Themes
 title: "Reply to Underdown and Oppenheimer: Roles of selection, plasticity, and genetics in the integration of human pelvis shape and head size"
-url_link: "https://www.pnas.org/content/113/3/E259.short"
-url_code: ""
-url_dataset: ""
-url_pdf: ""
-url_poster: ""
-url_project: ""
-url_slides: ""
-url_source: ""
-url_video: ""
+links:
+- name: URL
+  url: https://www.pnas.org/content/113/3/E259.short
+url_pdf: ''
+url_code: ''
+url_dataset: ''
+url_poster: ''
+url_project: ''
+url_slides: ''
+url_source: ''
+url_video: ''
 ---

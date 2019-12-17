@@ -22,13 +22,15 @@ summary:
 tags:
 - Source Themes
 title: Covariation between human pelvis shape, stature, and head size alleviates the obstetric dilemma
-url_link: "https://www.pnas.org/content/112/18/5655.short"
-url_code: ""
-url_dataset: ""
-url_pdf: ""
-url_poster: ""
-url_project: ""
-url_slides: ""
-url_source: ""
-url_video: ""
+links:
+- name: URL
+  url: https://www.pnas.org/content/112/18/5655.short
+url_pdf: ''
+url_code: ''
+url_dataset: ''
+url_poster: ''
+url_project: ''
+url_slides: ''
+url_source: ''
+url_video: ''
 ---
