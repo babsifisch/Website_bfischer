@@ -98,7 +98,7 @@ address = {street = "Althanstrasse 14", city = "1090 Vienna", region = "", postc
 coordinates = {latitude = "48.230474", longitude = "16.358634"}
 
 # Directions for visitors to locate you.
-directions = "Spange 4, Ebene 2, Department of Theoretical Biology"
+directions = "Spange 4, Ebene 2, Department of Evolutionary Biology, Unit for Theoretical Biology"
 
 # Office hours
 # A list of your office hours. To remove, set to an empty list `[]`.
