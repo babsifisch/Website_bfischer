@@ -11,6 +11,11 @@ title = "Recent & Upcoming Talks"
 subtitle = ""
 
 +++
+- **Die Evolution des modernen Menschen: Bestehende und neue Forschungsergebnisse**  
+Lehrerinnenfortbildung ARGE Biologie, Steyr, 20. November 2020.
+
+- **The evolution of difficult birth in humans**  
+Virtual Dept. Seminar, Dept. of Evolutionary Biology, June 30, 2020.
 
 - **The influence of demography and evolution on Caesarean section rates**  
 Colloquium, Konrad-Lorenz-Institute for Evolution and Cognition Research (KLI), October 29, 2019.
@@ -19,7 +24,7 @@ Colloquium, Konrad-Lorenz-Institute for Evolution and Cognition Research (KLI), 
 Female Pelvic Features Workshop, Natural History Museum Vienna, November 28, 2019.
 
 - [**Die Evolution des menschlichen Beckens und die Bedeutung für die Geburt**](https://www.fomf.at/gynaekologie-update-refresher-wien-1119#fomf-program)    
-Festvortrag, Gynäkologie Update Refresher Congress, Aula der Akademie der Wissenschaften Wien, November 29, 2019.
+Festvortrag, Gynäkologie Update Refresher Congress, Aula der Akademie der Wissenschaften Wien, 29. November, 2019.
 
 
 
