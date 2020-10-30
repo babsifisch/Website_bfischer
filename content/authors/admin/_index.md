@@ -13,11 +13,9 @@ education:
  
 email: "b.fischer@univie.ac.at"
 interests:
-- Evolution of birth
-- Evolutionary medicine
+- Evolutionary Medicine
 - Biostatistics and Data Science
-- Evolutionary theory
-- Science communication
+- Science Communication
 name: Barbara Fischer
 organizations:
 - name: University of Vienna
