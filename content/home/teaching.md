@@ -12,8 +12,8 @@ subtitle = ""
 
 +++
 
-2019-2020 academic year (2019W):
+2020-2021 academic year (2020W):
 
 [300357 UE Mathematical Basics for Quantitative Biology](https://ufind.univie.ac.at/en/course.html?lv=300357&semester=2020W)  
 
-[earlier teaching] (https://ufind.univie.ac.at/en/person.html?id=51825&teaching=true) at the University of Vienna
+[earlier teaching at the University of Vienna](https://ufind.univie.ac.at/en/person.html?id=51825&teaching=true) 
