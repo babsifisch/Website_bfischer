@@ -14,7 +14,7 @@ subtitle = ""
 - **Die Evolution des modernen Menschen: Bestehende und neue Forschungsergebnisse**  
 Lehrerinnenfortbildung ARGE Biologie, Steyr, November 20, 2020.
 
-- [**Patterns of sex differences in the pelvis did not evolve *de novo* in modern humans**](https://www.youtube.com/watch?v=Wac1NDTLR7E&feature=youtu.be)
+- [**Patterns of sex differences in the pelvis did not evolve *de novo* in modern humans**](https://www.youtube.com/watch?v=Wac1NDTLR7E&feature=youtu.be)  
 Talk at the virtual ESHE conference, September 24, 2020.
 
 - **The evolution of difficult birth in humans**  
