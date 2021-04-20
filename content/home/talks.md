@@ -11,6 +11,9 @@ title = "Recent & Upcoming Talks"
 subtitle = ""
 
 +++
+- [**Gender equality in science: Are we there yet? Proceeding with passion, persistence and perspectives**](https://www.youtube.com/watch?v=kUIzzJVJgdA&t=2770s)
+Panel discussion for International Women's day 2021, University of Vienna, March 9, 2021
+
 - **Die Evolution des modernen Menschen: Bestehende und neue Forschungsergebnisse**  
 Lehrerinnenfortbildung ARGE Biologie, Steyr, November 20, 2020 (cancelled, moved to Nov 2021)
 

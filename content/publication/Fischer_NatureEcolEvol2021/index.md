@@ -8,7 +8,7 @@ authors:
 - Philipp Mitteroecker
 date: "2021-03-25T00:00:00Z"
 doi: ""
-featured: false
+featured: true
 image:
   caption: ''
   focal_point: ""
