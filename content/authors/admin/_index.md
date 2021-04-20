@@ -27,7 +27,7 @@ social:
   link: '#contact'
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/babsifisch
+  link: https://twitter.com/drbfischer
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.co.uk/citations?user=X1U1AFIAAAAJ&hl=en
@@ -37,6 +37,7 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/babsifisch
+  
 
 
 superuser: false
