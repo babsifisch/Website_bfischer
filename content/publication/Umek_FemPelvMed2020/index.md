@@ -15,7 +15,7 @@ image:
   focal_point: ""
   preview_only: false
 projects: []
-publication: 'Female Pelvic Medicine & Reconstructive Surgery'
+publication: 'Female Pelvic Medicine & Reconstructive Surgery 26(12):719-720'
 publication_short: ""
 publication_types:
 - "2"
@@ -28,7 +28,7 @@ title: "We Should Abandon “Race” as a Biological Category in Biomedical Rese
 
 links:
 - name: URL
-  url: https://journals.lww.com/jpelvicsurgery/Citation/9000/We_Should_Abandon__Race__as_a_Biological_Category.99291.aspx
+  url: https://journals.lww.com/fpmrs/Fulltext/2020/12000/We_Should_Abandon__Race__as_a_Biological_Category.1.aspx
 url_pdf: ''
 url_code: ''
 url_dataset: ''

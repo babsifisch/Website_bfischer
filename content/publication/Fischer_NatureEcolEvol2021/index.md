@@ -14,7 +14,7 @@ image:
   focal_point: ""
   preview_only: false
 projects: []
-publication: 'Nature Ecology and Evolution'
+publication: 'Nature Ecology and Evolution 5:625-630'
 publication_short: ""
 publication_types:
 - "2"
