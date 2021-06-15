@@ -17,7 +17,7 @@ image:
   focal_point: ""
   preview_only: false
 projects: []
-publication: 'Bulletins et Memoires de la Societe d"'"Anthropologie de Paris 33(1):10-25'
+publication: 'Bulletins et Memoires de la Societe dAnthropologie de Paris 33(1):10-25'
 publication_short: ""
 publication_types:
 - "2"
